@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "748082907734",
+    "project_id": "sidra-8556b",
+    "storage_bucket": "sidra-8556b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748082907734:android:a6b4ee5120c0640ede49f7",
+        "android_client_info": {
+          "package_name": "com.riayatech.sidradoctor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANlwd-VsehuGpXLKYjzSqdpjg2n5YkYEw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748082907734:android:c7e358c5f7a025cdde49f7",
+        "android_client_info": {
+          "package_name": "com.riayatech.sidrapatientcare"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANlwd-VsehuGpXLKYjzSqdpjg2n5YkYEw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748082907734:android:a92797fde2700345de49f7",
+        "android_client_info": {
+          "package_name": "com.riayatech.sidrarider"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANlwd-VsehuGpXLKYjzSqdpjg2n5YkYEw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
